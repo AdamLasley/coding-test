@@ -1,5 +1,7 @@
 #Adam Lasley. Coding test. March 2016
 
+![Screenshot](http://i.imgur.com/B7Jn4CU.png)
+
 ##Use of flavors to share code-base with multiple projects.
 We can make use of the Gradle capabilities to share the same-code base in different projects. The Android Studio IDE has complete support for this, and changing the Build Variants and accessing this information from the Java code is trivial.
 
